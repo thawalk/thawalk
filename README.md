@@ -45,7 +45,7 @@
 ## 📘 Notable Projects
 
 [![Certoshi](https://github-readme-stats.vercel.app/api/pin/?username=thawalk&repo=Certoshi&theme=react&bg_color=cc66ff&title_color=000066&icon_color=000066&hide_border=true)](https://github.com/thawalk/Certoshi)
-[![GoodReviews](https://github-readme-stats.vercel.app/api/pin/?username=thawalk&repo=GoodReviews&theme=react&bg_color=cc66ff&title_color=000066&icon_color=000066&hide_border=true)](https://github.com/thawalk/Certoshi)
+[![GoodReviews](https://github-readme-stats.vercel.app/api/pin/?username=thawalk&repo=GoodReviews&theme=react&bg_color=cc66ff&title_color=000066&icon_color=000066&hide_border=true)](https://github.com/thawalk/GoodReviews)
 
 <p align="left">
   <a href="https://github.com/thawalk?tab=repositories"><img alt="All Repo" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
