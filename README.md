@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%20there%20👋&desc=Nice%20to%20meet%20you&fontSize=70&animation=fadeIn&descSize=20&descAlignY=55&descAlign=50&fontAlignY=40)
 
-## I'm Tharun - aka thawalk 🚶‍♂️, thafly 🛸, thaswim 🏊
+## Tharun - aka thawalk 🚶‍♂️, thafly 🛸, thaswim 🏊
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fthawalk.github.io%2Fportfolio%2F)](https://thawalk.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-adhi-narayan/)
