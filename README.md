@@ -4,11 +4,10 @@
 
 [![Website](https://img.shields.io/website?label=Portfolio&style=for-the-badge&url=https%3A%2F%2Fthawalk.github.io%2Fportfolio%2F)](https://thawalk.github.io/portfolio/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tharun-adhi-narayan/)
-<!-- ![](https://komarev.com/ghpvc/?username=thawalk&style=flat-square&label=PROFILE+VIEWS&color=blueviolet) -->
 
 ### I'm a Tech and Product Enthusiast!!
 
-- 🚀 I am currently working as a software engineer @ Workato!
+- 🚀 I am currently working as a Software Engineer @ Workato!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other tech/product enthusiasts to work on cool projects
 - 🥅 2021 Goals: Learn more about systems design
