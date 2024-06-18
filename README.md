@@ -10,7 +10,7 @@
 - 🚀 I am currently working as a Software Engineer @ Workato!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other tech/product enthusiasts to work on cool projects
-- 🥅 2021 Goals: Learn more about systems design
+- 🥅 2024 Goals: Learn more about micro services
 - ⚡ Side hobbies: I love to run 🏃‍♂️ and I recently picked up boxing as well 🥊
 - 📖 Current interests: Blockchain, full-stack development, amongst  many others
 
